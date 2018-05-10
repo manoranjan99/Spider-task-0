@@ -97,6 +97,7 @@ public class MainActivity extends AppCompatActivity {
             @Override
             public void onClick(View v) {
                      x=y;
+
                     mTextView.setText(Integer.toString(x));
                 mLayout.setBackgroundColor(Color.WHITE);
 
