@@ -4,8 +4,8 @@
     <string name="button1">Rs 1</string>
     <string name="button2">Rs 2</string>
     <string name="button5">Rs 5</string>
+    <string name="button6">Reset the Payment</string>
 
     <string name="button10">Rs 10</string>
-
 
 </resources>

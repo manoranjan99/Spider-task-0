@@ -98,6 +98,7 @@ public class MainActivity extends AppCompatActivity {
             public void onClick(View v) {
                      x=y;
 
+                     
                     mTextView.setText(Integer.toString(x));
                 mLayout.setBackgroundColor(Color.WHITE);
 
